@@ -68,7 +68,7 @@ int main()
 		
 		   case 1:
 		            int n1,a;
-					cout<<"Enter how many you have entered:"<<endl;
+					cout<<"Enter how many no you have want:"<<endl;
 					cin>>n1;
 					for(int i=0;i<n1;i++)
 					{
@@ -80,7 +80,7 @@ int main()
 					break;
 			case 2:
 				int b;
-				cout<<"how many poped data :"<<endl;
+				cout<<"how many poped element :"<<endl;
 				cin>>b;
 				for(int i=0;i<b;i++)
 				{
